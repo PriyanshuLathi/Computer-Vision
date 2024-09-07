@@ -24,9 +24,9 @@ The notebook provides hands-on examples to:
 - **Python Version:** 3.x
 - **Libraries:**
   - NumPy
-  - pandas
+  - Pandas
   - Python Imaging Library (PIL)
-  - matplotlib (for visualizing images)
+  - Matplotlib (for visualizing images)
 
 ## Usage
 
@@ -42,7 +42,7 @@ To run this notebook:
     pip install numpy pandas pillow matplotlib
     ```
 
-3. **Open the notebook in Jupyter:**
+3. **Open the notebook in Jupyter.**
 
 4. **Run each cell** to perform the described operations and observe the results.
 
