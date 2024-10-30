@@ -1,4 +1,4 @@
-# 11_Image Classification of Custom-Images using Deep-Learning (CNN)
+# Image Classification of Custom-Images using Deep-Learning (CNN)
 
 ## Overview
 This Jupyter Notebook demonstrates the implementation of a Convolutional Neural Network (CNN) to classify custom images. CNNs are highly effective for image classification tasks, making them ideal for this problem. The notebook utilizes TensorFlow and Keras to build, train, and evaluate the CNN.
